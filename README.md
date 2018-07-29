@@ -1,4 +1,4 @@
-# Markdown_learning
+# Markdown_learning2
 Markdown学习
 
 [Markdown维基百科](https://zh.wikipedia.org/wiki/Markdown#%E5%9B%BE%E7%89%87)  
@@ -63,6 +63,6 @@ print('Markdown')
         * 1-1-1
 
 跳转：
-[跳转到本页面](#Markdown_learning)  
+[跳转到标题](#Markdown_learning2)  
 [跳转到一级标题](#一级标题)  
 [跳转到二级标题](#二级标题)  
