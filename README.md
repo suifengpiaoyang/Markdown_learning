@@ -168,6 +168,14 @@ markdown实现缩进的方法
 
 1.在上面表格一项的说明文字中，我本想用markdown强调语法强调某些内容（\*\*），但是失效了。只得使用html的强调语法。目前不知道原因。
 
+2.文件树
+
+https://stackoverflow.com/questions/19699059/representing-directory-file-structure-in-markdown-syntax
+
+https://meta.stackexchange.com/questions/147467/is-there-a-good-way-to-represent-file-structure-in-a-question-answer
+
+https://stackoverflow.com/questions/23989232/is-there-a-way-to-represent-a-directory-tree-in-a-github-readme-md
+
 [回到顶端](#markdown_learning) 
 
 ------------------------
