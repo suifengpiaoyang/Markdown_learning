@@ -3,6 +3,7 @@ Markdown学习
 
 [Markdown维基百科](https://zh.wikipedia.org/wiki/Markdown#%E5%9B%BE%E7%89%87)  
 [Markdown学习文档](https://markdown.tw/)  
+[Markdown表格](http://xianbai.me/learn-md/article/extension/table.html)
 
 -----------------------------------
 
@@ -46,7 +47,7 @@ Markdown学习
 print('Markdown')
 ```
 
-表格（表格的创建有一个很重要的隐性规则，就是在表格数据的上一行不能有文字！如果有文字，则不识别为表格！）：
+表格（表格的创建有一个很重要的隐性规则，就是在表格数据的上一行不能有文字！如果有文字，则不识别为表格！虚线上面一行是表头，表头的文字格式加粗）：
 
 |x|y|z
 |---|---|---
@@ -67,3 +68,11 @@ print('Markdown')
 [跳转到标题](#Markdown_learning)  
 [跳转到一级标题](#一级标题)  
 [跳转到二级标题](#二级标题)  
+
+markdown实现缩进的方法
+
+|类型|实现方式|
+|:--:|:--:|
+|半角空格|\&ensp; 或 \&#8194;|
+|全角空格|\&emsp; 或 \&#8195;|
+|不换行空格|\&nbsp; 或 \&#160;|
