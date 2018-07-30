@@ -3,7 +3,8 @@ Markdown学习
 
 [Markdown维基百科](https://zh.wikipedia.org/wiki/Markdown#%E5%9B%BE%E7%89%87)  
 [Markdown学习文档](https://markdown.tw/)  
-[Markdown表格](http://xianbai.me/learn-md/article/extension/table.html)
+[Markdown表格](http://xianbai.me/learn-md/article/extension/table.html)  
+[编辑器Sublime Text 3设置](https://blog.csdn.net/senver_wen/article/details/80002465)  
 
 -----------------------------------
 
