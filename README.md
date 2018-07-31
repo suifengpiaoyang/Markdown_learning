@@ -20,7 +20,8 @@
 ### 学习文档
 
 [Markdown维基百科](https://zh.wikipedia.org/wiki/Markdown#%E5%9B%BE%E7%89%87)  
-[Markdown学习文档](https://markdown.tw/)  
+[Markdown学习文档（中文）](https://markdown.tw/)  
+[Markdown学习文档（英文）](https://www.markdownguide.org/basic-syntax/)  
 [Markdown表格](http://xianbai.me/learn-md/article/extension/table.html)  
 [Maekdown页面内跳转学习教程](https://www.jianshu.com/p/4898c2e9a36d)  
 
